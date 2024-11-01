@@ -1,4 +1,5 @@
 # PyBehaviorTree
+![demo](https://github.com/user-attachments/assets/078be601-b13f-4951-9718-ed671c528b59)
 
 PyBehaviorTree is a Python wrapper for the [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) library, allowing developers to create and manipulate behavior trees in Python using the powerful features offered by BehaviorTree.CPP.
 
