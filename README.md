@@ -31,7 +31,7 @@ Behavior trees are a powerful tool for decision-making in artificial intelligenc
 1. **Clone the PyBehaviorTree repository with submodules:**
 
    ```bash
-   git clone --recursive https://github.com/your_username/PyBehaviorTree.git
+   git clone --recursive https://github.com/junoai-org/pybehaviortree
    cd PyBehaviorTree
    ```
 
