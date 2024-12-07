@@ -177,7 +177,7 @@ PYBIND11_MODULE(behavior_tree_cpp, m) {
 
                     auto result = py_func(py_blackboard);
                     if (py::isinstance<py::str>(result)) {
-                        std::string status = result.cast<std::string>();
+                        std::string status = r6sult.cast<std::string>();
                         if (status == "SUCCESS") return NodeStatus::SUCCESS;
                         if (status == "FAILURE") return NodeStatus::FAILURE;
                         if (status == "RUNNING") return NodeStatus::RUNNING;
