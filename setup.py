@@ -26,7 +26,7 @@ ext_modules = [
 
 setup(
     name="behavior_tree_cpp",
-    version="0.0.1",
+    version="0.0.2",
     author="Jack",
     description="Wrapper de Python para BehaviorTree.CPP",
     ext_modules=ext_modules,
